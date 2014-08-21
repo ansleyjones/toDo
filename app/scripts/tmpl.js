@@ -19,7 +19,7 @@ var todoTmpl = [
 "</p>",
 "<form class=\"editListItem hidden\" name=\"editTodo\">",
   "<input type=\"text\" class = \"listEdit\" name=\"item\" value=\"<%= element.item %>\">",
-  "<input type=\"submit\" value=\"Submit Edit\" class=\"editSubmit\">",
+  "<input type=\"submit\" value=\"Submit\" class=\"editSubmit\">",
 "</form>",
 "</article>",
 "<% }); %>"
